@@ -5,6 +5,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsPY_0LyxJcKPw42qUlwChWrRwj7FIr9Q1DOHin22kyl_405pIRYnjdu0:https://s.yimg.com/lo/mysterio/api/93684979bd939c97db8e349df9d961ff9e2426c021933af9b467203949094f54/lightyear_networkapi/resizefill_w518_h497%253Bquality_80%253Bformat_webp/https%253A%252F%252Fmedia.zenfs.com%252Fen%252Fknow_your_meme_909%252Fac887c86727b4ad85504c19b66fae1ff&s=10")
 }
 
 canvas {
@@ -12,6 +13,7 @@ canvas {
   margin: 20px;
   border-radius: 15px;
   border: 5px solid rgba(118, 0, 233, 0.375);
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqZicVPc4gHm6nGt4QyFGwdsxMRxdqs2K0atzfuAjhBQkyJ8WvXqDrI5g:https://pbs.twimg.com/media/EHSAJkXX0AI6d8a.jpg&s=10")
 }
 
 img {
